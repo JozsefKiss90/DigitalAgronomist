@@ -1,0 +1,26 @@
+{
+  "DigitalAgronomist_GOLD_FIXED_SQLite_EXE.py": {
+    "mtime": 1792328172.2574885,
+    "seen": 1792335015.2689211,
+    "ast_hash": "ef37a640a8e78947bb9390791b7aad8a",
+    "semantic_hash": "ef37a640a8e78947bb9390791b7aad8a"
+  },
+  "opencode.json": {
+    "mtime": 1792334708.9650466,
+    "seen": 1792335015.2689302,
+    "ast_hash": "40e8051ffdf5d0e51541b0f1bf6bfec8",
+    "semantic_hash": "40e8051ffdf5d0e51541b0f1bf6bfec8"
+  },
+  "runtime_hook_qtwebengine_onefile.py": {
+    "mtime": 1792328172.6091561,
+    "seen": 1792335015.2689345,
+    "ast_hash": "ca7e03a14ddd33b6feffec245630e960",
+    "semantic_hash": "ca7e03a14ddd33b6feffec245630e960"
+  },
+  "tools/pyc_tools.py": {
+    "mtime": 1792328174.4659052,
+    "seen": 1792335015.2689366,
+    "ast_hash": "d318280641ce949f73c976e7d9d3e606",
+    "semantic_hash": "d318280641ce949f73c976e7d9d3e606"
+  }
+}

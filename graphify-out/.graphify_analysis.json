@@ -1,0 +1,218 @@
+{
+  "communities": {
+    "0": [
+      "csv",
+      "dataclasses",
+      "datetime",
+      "digitalagronomist_gold_fixed_sqlite_exe",
+      "digitalagronomist_gold_fixed_sqlite_exe_application_directory",
+      "digitalagronomist_gold_fixed_sqlite_exe_main",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_draw_manual_coordinates",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_draw_selected_kml",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_set_current_parcel",
+      "digitalagronomist_gold_fixed_sqlite_exe_parse_kml_file",
+      "digitalagronomist_gold_fixed_sqlite_exe_parse_manual_coordinates",
+      "digitalagronomist_gold_fixed_sqlite_exe_rationale_3",
+      "digitalagronomist_gold_fixed_sqlite_exe_rationale_72",
+      "digitalagronomist_gold_fixed_sqlite_exe_remove_duplicate_closing_point",
+      "digitalagronomist_gold_fixed_sqlite_exe_validate_rings",
+      "json",
+      "math",
+      "path",
+      "pyside6_qtcore",
+      "pyside6_qtgui",
+      "pyside6_qtwebenginewidgets",
+      "pyside6_qtwidgets",
+      "sqlite3",
+      "typing",
+      "xml_etree_elementtree"
+    ],
+    "1": [
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_apply_theme",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_build_local_sensor_tab",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_build_menu",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_build_platform_data_tab",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_build_ui",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_choose_kml",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_clear_current_parcel",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_delete_selected_parcel",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_delete_sensor_data",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_init",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_load_map",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_load_selected_parcel",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_on_map_loaded",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_refresh_sensor_table",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_run_js",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_selected_record",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_delete_sensor_data",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_get_sensor_data",
+      "qlistwidgetitem",
+      "qmainwindow",
+      "qwidget"
+    ],
+    "2": [
+      "difflib",
+      "dis",
+      "marshal",
+      "os",
+      "pathlib",
+      "re",
+      "runtime_hook_qtwebengine_onefile",
+      "runtime_hook_qtwebengine_onefile_first_existing",
+      "sys",
+      "tools_pyc_tools",
+      "tools_pyc_tools_cmd_dump",
+      "tools_pyc_tools_cmd_verify",
+      "tools_pyc_tools_compare_one",
+      "tools_pyc_tools_consts_sig",
+      "tools_pyc_tools_keyed",
+      "tools_pyc_tools_load_pyc",
+      "tools_pyc_tools_norm_instrs",
+      "tools_pyc_tools_rationale_1",
+      "tools_pyc_tools_rationale_24",
+      "tools_pyc_tools_walk",
+      "types"
+    ],
+    "3": [
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_closeevent",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_save_sensor_data",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_add_sensor_data",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_close",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_create_schema",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_delete_parcel",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_init",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_rename_parcel",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_save_parcel"
+    ],
+    "4": [
+      "digitalagronomist_gold_fixed_sqlite_exe_haversine_distance_m",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_refresh_parcel_combos",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_update_platform_parcel_summary",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_use_current_parcel_for_platform",
+      "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase_list_parcels",
+      "digitalagronomist_gold_fixed_sqlite_exe_parcelrecord",
+      "digitalagronomist_gold_fixed_sqlite_exe_polygon_area_m2",
+      "digitalagronomist_gold_fixed_sqlite_exe_rationale_442",
+      "digitalagronomist_gold_fixed_sqlite_exe_total_area_m2"
+    ],
+    "5": [
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_refresh_saved_parcels",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_rename_selected_parcel",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_save_current_parcel",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_show_current_on_map",
+      "digitalagronomist_gold_fixed_sqlite_exe_mainwindow_update_info",
+      "digitalagronomist_gold_fixed_sqlite_exe_namedialog",
+      "digitalagronomist_gold_fixed_sqlite_exe_namedialog_init",
+      "digitalagronomist_gold_fixed_sqlite_exe_namedialog_parcel_name",
+      "qdialog"
+    ],
+    "6": [
+      "opencode",
+      "opencode_headroom_command",
+      "opencode_headroom_enabled",
+      "opencode_headroom_type",
+      "opencode_mcp",
+      "opencode_mcp_headroom",
+      "opencode_plugin",
+      "opencode_schema"
+    ]
+  },
+  "cohesion": {
+    "0": 0.10333333333333333,
+    "1": 0.1645021645021645,
+    "2": 0.1761904761904762,
+    "3": 0.2222222222222222,
+    "4": 0.2777777777777778,
+    "5": 0.3611111111111111,
+    "6": 0.25
+  },
+  "gods": [
+    {
+      "id": "digitalagronomist_gold_fixed_sqlite_exe_mainwindow",
+      "label": "MainWindow",
+      "degree": 32
+    },
+    {
+      "id": "digitalagronomist_gold_fixed_sqlite_exe_parceldatabase",
+      "label": "ParcelDatabase",
+      "degree": 12
+    },
+    {
+      "id": "tools_pyc_tools_cmd_verify",
+      "label": "cmd_verify()",
+      "degree": 8
+    },
+    {
+      "id": "digitalagronomist_gold_fixed_sqlite_exe_namedialog",
+      "label": "NameDialog",
+      "degree": 6
+    },
+    {
+      "id": "digitalagronomist_gold_fixed_sqlite_exe_parse_kml_file",
+      "label": "parse_kml_file()",
+      "degree": 5
+    },
+    {
+      "id": "tools_pyc_tools_cmd_dump",
+      "label": "cmd_dump()",
+      "degree": 5
+    },
+    {
+      "id": "tools_pyc_tools_compare_one",
+      "label": "compare_one()",
+      "degree": 5
+    },
+    {
+      "id": "tools_pyc_tools_walk",
+      "label": "walk()",
+      "degree": 5
+    },
+    {
+      "id": "digitalagronomist_gold_fixed_sqlite_exe_application_directory",
+      "label": "application_directory()",
+      "degree": 4
+    },
+    {
+      "id": "digitalagronomist_gold_fixed_sqlite_exe_parse_manual_coordinates",
+      "label": "parse_manual_coordinates()",
+      "degree": 4
+    }
+  ],
+  "surprises": [
+    {
+      "source": "main()",
+      "target": "MainWindow",
+      "source_files": [
+        "DigitalAgronomist_GOLD_FIXED_SQLite_EXE.py",
+        "DigitalAgronomist_GOLD_FIXED_SQLite_EXE.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 1 → community 0"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `MainWindow` connect `Main Window UI` to `KML Parcel Map App`, `Parcel SQLite Database`, `Parcel Area Calculations`, `Parcel Naming Dialog`?",
+      "why": "High betweenness centrality (0.362) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `KML Parcel Map App` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10333333333333333 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `ParcelDatabase` connect `Parcel SQLite Database` to `KML Parcel Map App`, `Main Window UI`, `Parcel Area Calculations`?",
+      "why": "High betweenness centrality (0.121) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `NameDialog` connect `Parcel Naming Dialog` to `KML Parcel Map App`?",
+      "why": "High betweenness centrality (0.054) - this node is a cross-community bridge."
+    }
+  ]
+}
